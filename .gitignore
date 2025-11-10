@@ -1,0 +1,9 @@
+# Python / Jupyter
+TP2/__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# OS
+.DS_Store
+# Données
+data/*
+!data/.gitkeep

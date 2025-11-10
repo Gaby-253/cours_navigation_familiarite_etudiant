@@ -1,0 +1,15 @@
+name: familiarite_antnav
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - pillow
+  - scikit-image
+  - opencv
+  - ipywidgets
+  - jupyterlab
+  - notebook
+  - ffmpeg
+  - pip
