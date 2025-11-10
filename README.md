@@ -34,6 +34,12 @@
 
 ---
 
+## 📝 Rendu
+
+* Envoyez moi vos notebook aprés compilation, au format html par mail.
+
+---
+
 ## ▶️ Option A (Recommandé) — Exécuter en ligne (Google Colab)
 
 Aucun prérequis local : ouvrez directement les notebooks dans le navigateur.
