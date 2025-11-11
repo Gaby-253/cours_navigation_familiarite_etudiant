@@ -23,6 +23,7 @@
 ├─ TP2/                  # TP2.ipynb (+ éventuel code support non modifiable)
 ├─ data/                 # Dossier des données (à remplir après téléchargement)
 ├─ environment.yml       # Spécification de l'environnement Conda (usage local)
+├─ Cours.pdf             # Support du cours
 └─ README.md
 ```
 
