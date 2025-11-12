@@ -48,9 +48,6 @@ Aucun prérequis local : ouvrez directement les notebooks dans le navigateur.
 * **TP1B sur Colab** :
   [![Ouvrir TP1B dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite_etudiant/blob/main/TP1/TP1B_localiser_sur_route.ipynb)
 
-* **TP2 sur Colab** :
-  [![Ouvrir TP2 dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite_etudiant/blob/main/TP2/TP2_mushroombody.ipynb)
-
 Dans **chaque notebook**, la **première cellule** télécharge et extrait automatiquement les données dans `../data/` à partir du lien ci-dessous.
 
 > Si vous voyez une erreur liée aux paquets, relancez la cellule “setup” puis “Runtime > Restart session” et ré-exécutez le notebook.
