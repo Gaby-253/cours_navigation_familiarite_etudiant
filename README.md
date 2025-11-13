@@ -45,14 +45,14 @@ Aucun prérequis local : ouvrez directement les notebooks dans le navigateur.
 * **TP1A sur Colab** :
   [![Ouvrir TP1A dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite_etudiant/blob/main/TP1/TP1A_garde_le_cap.ipynb)
 
-* **TP1A sur Colab** :
+* **correction TP1A sur Colab** :
   [![Ouvrir TP1A correction dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite/blob/main/TP1/TP1A_garde_le_cap_correction.ipynb)
 
 * **TP1B sur Colab** :
   [![Ouvrir TP1B dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite_etudiant/blob/main/TP1/TP1B_localiser_sur_route.ipynb)
 
 
-* **TP1B sur Colab** :
+* **correction TP1B sur Colab** :
   [![Ouvrir TP1B correction dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gaby-253/cours_navigation_familiarite/blob/main/TP1/TP1B_localiser_sur_route_correction.ipynb)
 
 
